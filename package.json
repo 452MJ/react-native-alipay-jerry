@@ -1,7 +1,7 @@
 {
-  "name": "@uiw/react-native-alipay",
+  "name": "react-native-alipay-jerry",
   "title": "React Native Alipay",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "description": "基于 React Native 的支付宝插件，支持Android/iOS。",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -19,8 +19,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uiwjs/react-native-alipay.git",
-    "baseUrl": "https://github.com/uiwjs/react-native-alipay"
+    "url": "git+https://github.com/452MJ/react-native-alipay-jerry.git",
+    "baseUrl": "https://github.com/452MJ/react-native-alipay-jerry"
   },
   "keywords": [
     "react-native",
@@ -32,8 +32,8 @@
     "android"
   ],
   "author": {
-    "name": "Kenny Wong",
-    "email": "wowohoo@qq.com"
+    "name": "Jerry",
+    "email": "jerryli720@qq.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
