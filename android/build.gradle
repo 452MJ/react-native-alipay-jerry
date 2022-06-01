@@ -75,8 +75,9 @@ dependencies {
     implementation 'com.facebook.react:react-native:+'  // From node_modules
 
     // 支付宝 SDK AAR 包所需的配置
+    api 'com.alipay.sdk:alipaysdk-android:+@aar'
     // implementation (name: 'alipaySdk-15.7.7-20200702160044', ext: 'aar')
-    compileOnly fileTree(dir: "libs", include: ["*.aar"])
+//     compileOnly fileTree(dir: "libs", include: ["*.aar"])
 }
 
 afterEvaluate { project ->
